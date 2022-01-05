@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="CalculatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Calculator.Library\Calculator.Library.csproj">
